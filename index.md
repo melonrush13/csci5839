@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Mel's CSCI 5839 - User Centered Design - blog. 
+Welcome to Mel's CSCI 5839 - User Centered Design - blog 
 
 ## About
 
