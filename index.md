@@ -10,9 +10,9 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 ## Blogs
 
-[Assignment One](https://github.com/melonrush13/csci5839/blob/master/blog/assignment1.md)
+[Assignment One](blog/assignment1.md)
 
-[Assignment Two](https://github.com/melonrush13/csci5839/blob/master/blog/assignment2.md)
+[Assignment Two](blog/assignment2.md)
 
 ## Contact
 
