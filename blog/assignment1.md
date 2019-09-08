@@ -12,15 +12,18 @@ More popularly, I see self checkout kiosks at a majority of grocery stores. It r
 
 Amazon does implement the idea of self checkout in their [Amazon Go Stores](https://www.amazon.com/b?node=16008589011). Users scan their cell phones when entering the store, and then items are directly added to their virtual cart using computer vision and weight sensors. This is only implemented at Amazon Go stores, and I don't see this idea expanding into other grocery stores. I don't know if Amazon's computer vision algorithm is opened sourced for other suppliers to use, and I see it being a very expessive process to add weight sensors on every shelf in a grocery store. I don't think most users would find this accesible as well, and people might not have a cell phone that supports this model.
 
-One idea that hasn't been adopted like self checkout is IDEO's shopping bag hangers. There is a common trend, specifically in Boulder, to bring your own grocery bags to the store. The hooks in IDEO's video support hanging plastic bags, and wouldn't be able to support multiple sizes and weights. With users bringing in a variety of bags, this idea wouldn't fit well in society today. I think having bags making up the grocery cart directly is smart and saves time, similarly to having baskets as the main cart as IDEO implements. Although, it needs improvements.
+One idea that hasn't been adopted like self checkout is IDEO's shopping bag hangers. There is a common trend, specifically in Boulder, to bring your own grocery bags to the store. The hooks in IDEO's video support hanging plastic bags, and wouldn't be able to support multiple sizes and weights. With users bringing in a variety of bags, this idea wouldn't fit well in society today.
+
+I liked IDEO's idea of replacing the main cart with baskets. I think this idea could be improved by having the shopping cart consist of the user's reusable bags intead. The idea is there, but needs improvements to work with a variety of shoppers.
 
 ## Question 2
 
 ### Who did the design team talk to? For each group of stakeholders that the designers talked to, explain why it was important to talk to them?
 
-Before the IDEO designers began designing the hardwear of the cart, they went to do user observing at the grocery store. They talked to and observed...
+Before the IDEO designers began designing the hardwear of the cart, they went to observe users at the grocery store. They observed ...
+
 - Shoppers at the grocery store
-- An employee who worked in the parking lot.
+- An employee working in the parking lot
 
 The video claims they talked to "people who use, make, and repair shopping carts", although I only saw them observing shoppers and talking to the one employee outside in the lot.
 
@@ -34,8 +37,6 @@ Even talking to less wealthy populations, quick shoppers VS long shoppers, the h
 
 ## Other Thoughts
 
-I loved the extremity of the ideas in this video. Someone mentioned childen wearing velcro pants and having a velco interior of the cart to prevent them from falling out. I can see why having extreme thoughts and ideas is really important to branching into other ideas. I am definitely going to keep this in mind throughout my creative process!
+I loved the extremity of ideas in this video. Someone mentioned carts having a velco interior for children with velcro pants to prevent them from falling out. I can see why having extreme thoughts and ideas is really important to branching into other ideas. I am definitely going to keep this in mind throughout my creative design processes!
 
-I also would have loved to see more diversity in the team. I understand this is from the 90s, and there was a diversity of skillsets, but not a diversity of backgrounds. Especially if the user studies are limited, it is important there are designers who can speak for those who weren't interviewed or observered.
-
-
+I also would have loved to see more diversity in the team. I understand there was a diversity of skillsets, but there was not a diversity of backgrounds. If the user studies are limited, it is even *more* important there are designers who can speak on behalf of those who weren't interviewed or observered.
