@@ -24,7 +24,7 @@ I was shocked about the diversity comments made around creating make belief pers
 
 ### Contextual Design
 
-In summary, contextual design is the process of gathering data about the user, and relaying this information to development teams and key decision makers. The purpose is to make smarter decisions when setting requirements for a project. The user needs to be at the center of our requirements.
+In summary, contextual design is the process of gathering data about the user, and relaying this information to development teams and key decision makers. The purpose is to make smarter decisions when setting requirements for a project. The user needs to be at the center of all decision making.
 
 The CEO at Microsoft, Satya Nadella, loves to use the phrase "customer obsessed". It is the core priority in every organization at Microsoft - through sales and engineering teams. He uses this phrase often in his book, [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508/ref=sr_1_1?hvadid=78477684692572&hvbmt=be&hvdev=c&hvqmt=e&keywords=hit+refresh+satya+nadella&qid=1568211798&s=gateway&sr=8-1). I agree with Satya. The customer, and the people using technology, are the top priority when designing and developing software. If engineers are creating technology for no reason - who will use it? What is the purpose? There needs to be an intent behind the tools people create. Therefore, we must study and understand the users and the problems they have.
 
