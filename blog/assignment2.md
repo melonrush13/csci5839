@@ -49,3 +49,9 @@ This is contradictory from the author stating, "As soon as designers start focus
 A person is more than their job title. A software engineer is more than a coding monkey who writes features all day.
 
 ### Task Analysis
+
+Task Analysis is understanding the process of how people do their job, and the individual steps they take to complete a task from start to finish.
+
+This article reminded me alot about how I teach kids how to program. The lesson was computers need exact instructions to complete a task. Computers are not intelligent. We need to teach them exactly what to do, or they will not understand. I would make a peanut butter and jelly sandwhich in front of the class, by following the *exact* instructions the children gave. If they told me to put peanut butter on the bread, I would take the jar of peanut butter and place it directly ontop of the bread. It was a great experiment!
+
+Here is a task model of what this process would look like:
