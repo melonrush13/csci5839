@@ -24,18 +24,28 @@ I was shocked about the diversity comments made around creating make belief pers
 
 ### Contextual Design
 
-I disagreed with most of this article, so brace yourself. :)
-
 In summary, contextual design is the process of gathering data about the user, and relaying this information to development teams and key decision makers. The purpose is to make smarter decisions when setting requirements for a project. The user needs to be at the center of our requirements.
 
-The CEO at Microsoft, Satya Nadella, loves to use the phrase "customer obsessed". It is the core priority in every organization at Microsoft - through sales, and engineering teams. He uses this phrase often in his book, [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508/ref=sr_1_1?hvadid=78477684692572&hvbmt=be&hvdev=c&hvqmt=e&keywords=hit+refresh+satya+nadella&qid=1568211798&s=gateway&sr=8-1). I agree with Satya. The customer, and the people using technology, are the top priority when designing and developing software. If engineers are creating technology for no reason - who will use it? What is the purpose? There needs to be an intent behind the tools people create. Therefore, we must study and understand the users and the problems they have.
+The CEO at Microsoft, Satya Nadella, loves to use the phrase "customer obsessed". It is the core priority in every organization at Microsoft - through sales and engineering teams. He uses this phrase often in his book, [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508/ref=sr_1_1?hvadid=78477684692572&hvbmt=be&hvdev=c&hvqmt=e&keywords=hit+refresh+satya+nadella&qid=1568211798&s=gateway&sr=8-1). I agree with Satya. The customer, and the people using technology, are the top priority when designing and developing software. If engineers are creating technology for no reason - who will use it? What is the purpose? There needs to be an intent behind the tools people create. Therefore, we must study and understand the users and the problems they have.
 
 I agree with gathering customer requirements and understanding their needs before developing. Although, I do not agree with the assumptions and process for doing this in which the article states.
 
-The article describes engineering-driven as a bunch of guys getting together to think of cool features to ship. Throughout 
+There were many assumptions around developers. I will state a few:
 
-- designing a websitee, vut should it really be a 
+- "...developers resist traveling"
+- "They are impatient with user research"
+- "They would rather build something, test it, and change it instead of getting bogged down..."
+
+I am a traveling software engineer. I go on site directly with my customers, and understand their wants and needs face to face. It is expensive, but worth it. It is cruical to understand the customer before beginning development. I recently worked with Bacardi to make an application. I sat in a room with bartenders, managers, financial teams, mothers, developers, designers, and more. I asked questions to each audience, to try to understand the root of their problem before creating a solution. As soon as we began creating storyboards, I constantly got their feedback. It is unfair to make all these assumptions about developers. People can be many different things and we shouldn't put a hat on them to only do "programming".
+
+The best engineers are the ones who question every decision and requirement. Engineers want to know *why* they are developing certain features, and the intent behind them. "Is this the correct technology stack? Do we really need this feature? What requirement is this fufilling?"
+
+This is what separates a great engineer from an entry level engineer.
+
+The article also states, "The visioning team needs to include people who understand the possibilities and constraints of the technology". This is why it is even **more** important to not corner developers to be "feature monkeys", and why we need them in the conversation. Engineers understand the technology - the limitations and possiblities. The article used an example about designers creating a website for the customer. If the designers do not know anything about websites, how are they supposed to help brainstorm the possibilites? More importantly, **is a website really the right answer to the problem we are trying to solve?** We must keep developers in the conversation so we can ensure we are solving the problems using the right technologies.
+
+This is contradictory from the author stating, "As soon as designers start focusing on technology, technology and its problems become their central design concerns." Yes, understanding the problems of the user and their intents is the main priority. Although, technology needs to be included early in the conversation. A technical decision might make or break the problem.
+
+A person is more than their job title. A software engineer is more than a coding monkey who writes features all day.
 
 ### Task Analysis
-
-
