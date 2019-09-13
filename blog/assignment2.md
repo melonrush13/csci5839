@@ -54,4 +54,6 @@ Task Analysis is understanding the process of how people do their job, and the i
 
 This article reminded me alot about how I teach kids how to program. The lesson was computers need exact instructions to complete a task. Computers are not intelligent. We need to teach them exactly what to do, or they will not understand. I would make a peanut butter and jelly sandwhich in front of the class, by following the *exact* instructions the children gave. If they told me to put peanut butter on the bread, I would take the jar of peanut butter and place it directly ontop of the bread. It was a great experiment!
 
-Here is a task model of making a peanut butter and jelly sandwhich :)
+Being a software engineer, I have to push my code to an online code sharing website called GitHub. Here is how the GitHub work flow runs for submitting code.
+
+![Submitting Code](../Imgs/taskanalysis.png)
