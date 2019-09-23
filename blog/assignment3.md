@@ -14,13 +14,13 @@ Note which articles you read. Why did you pick them? Do you think they will be h
 
 ### Cultural Probes
 
-I remember hearing the term "cultural probes" previously, and was interested in the article because I wanted to refresh my memory on the technique in the HCI World.
+I remember previously hearing the term "cultural probes", and recalled it being an interesting technique for designers. I wanted to read this article to reunderstand what they were for, and some examples of them being used.
 
-I found it strange how the article didn't give any context on the concept of cultural probes, and instead dove right into the study. I had to reverse engineer the article to understand what cultural probes are, and why they are used.
+While reading the article, I found it strange how zero context was given on the concept of cultural probes before the study was explained. I had to reverse engineer to understand what was happening.
 
-After reading, I learned the goal of cultural probes is to understand the thoughts,emotions, interests, and environment of the users studied. The way these understandings are gathered is by providing a collection of tools and items to the user group for them to interact with.
+I learned the goal of cultural probes is to understand the thoughts, emotions, interests, and environment of a user. This is done by providing the user with a collection of tools and items.
 
-The article used a cultural probe to understand the elderly population - in hopes to involve them more with the community, from their senior living environments. They put together the following items for their probe:
+The article used a cultural probe to understand the elderly population, with hopes to better involve them with their communites. Designers put together the following items for their probe:
 
 - postcards
 - map
@@ -28,8 +28,8 @@ The article used a cultural probe to understand the elderly population - in hope
 - photo album
 - media diary
 
-The designers didn't seem to recieve a ton of new information from the probes. Some of the elderly communities lost interest and continued on with their daily lives once the study started. Although, this didn't seem to effect the new design decision regardless. Which made me wonder, *what is the point of doing a probe?*
+The designers didn't seem to recieve a ton of *new* information from the probes. Some of the elderly communities lost interest and continued on with their daily lives. Although, this didn't seem to affect the new design decision regardless. Which made me wonder, *what is the point of doing a probe?*
 
-I do like the idea of having a cultural probe. I loved learning how the media diary was used for the users to record every instance of when they watched TV, how long they watched it for, etc. I think using a diary to collect any form of usage data is powerful. For example - recording dreams in a book, instances of a specific emotion triggered, amount of water intake per day, etc.
+I do like the idea of having a cultural probe. I loved learning how the media diary was used for the users to record every instance of when they watched TV, how long they watched it, etc. I think using a diary to collect any form of usage data is powerful. For example, recording dreams in a dreambook, instances of a specific emotion being triggered, amount of water intake per day, etc.
 
-Recording these things helps the user be more aware of their environment, which I think is the whole point of a probe. I think whatever technique people choose to use, it is an excellent idea to gain more understanding.
+Recording these things helps the user be more aware of their environment, which I think is the whole point of a probe. I think whatever technique people choose to use, it is an excellent idea to gain more understanding of our actions and environment.
