@@ -3,8 +3,6 @@
 ## Readings
 
 - Research Contributions in Human Computer Interaction (Wobbrock and Kientz)
-
-
 - Design: Cultural Probes
 - Why Youth (Heart) Social Network Sites: The Role of Networked Publics in Teenage Social Life (Danah Boyd)
 
