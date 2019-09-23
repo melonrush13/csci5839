@@ -30,4 +30,4 @@ The designers didn't seem to recieve a ton of *new* information from the probes.
 
 I loved learning about the media diary and how it was used to record daily interactions. Elders recorded information in the study such as every instance they watched TV, how long they watched it, etc. I think using a diary to collect any form of usage data is powerful. For example, recording dreams in a dreambook, instances of a specific emotion being triggered, amount of water intake per day, etc.
 
-Recording these things helps the user be more aware of their environment, which I think is the whole point of a probe. I think whatever technique people choose to use, it is an excellent idea to gain more understanding of our actions and environment.
+Recording these things helps the user be more aware of their environment, which I think is the whole point of a probe. I think whatever technique people choose to use, it is an excellent idea to gain more understanding of our actions and environment. I would be interested in creating a cultural probe to see how affective it can be, but am also happy asking the right questions at a smaller scale to gain the same understanding.
