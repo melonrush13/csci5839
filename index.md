@@ -10,15 +10,15 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 ## Blogs
 
-[Assignment One](blog/assignment1.md)
+[Assignment One: The Deep Dive](blog/assignment1.md)
 
-[Assignment Two](blog/assignment2.md)
+[Assignment Two: Users and Tasks](blog/assignment2.md)
 
-[Assignment Three](blog/assignment3.md)
+[Assignment Three: Formative Research](blog/assignment3.md)
 
-[Assignment Four](blog/assignment4.md)
+[Assignment Four: Interviews](blog/assignment4.md)
 
-[Assignment Five](blog/assignment5.md)
+[Assignment Five: Sketching](blog/assignment5.md)
 
 ## Contact
 
