@@ -18,6 +18,8 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 [Assignment Four](blog/assignment4.md)
 
+[Assignment Five](blog/assignment5.md)
+
 ## Contact
 
 Shoot me an email at meru4213@colorado.edu
