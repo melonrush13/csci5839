@@ -8,7 +8,7 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 ![Mel](Imgs/melrush.png)
 
-## Blogs
+## Assignments
 
 [Assignment One: The Deep Dive](blog/assignment1.md)
 
@@ -19,6 +19,18 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 [Assignment Four: Interviews](blog/assignment4.md)
 
 [Assignment Five: Sketching](blog/assignment5.md)
+
+[Assignment Five: Sketching](blog/assignment5.md)
+
+[Assignment Six: Prototyping](blog/assignment6.md)
+
+[Assignment Seven: Usability](blog/assignment7.md)
+
+[Assignment Eight: Visual Design](blog/assignment8.md)
+
+## Classwork
+
+[Cultural Probes](classwork/culturalprobe.md)
 
 ## Contact
 
