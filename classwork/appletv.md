@@ -51,4 +51,4 @@ Allows the user to select the previous choice in a list.
 
 ## The Remote: Alternative Functionality
 
-If the user does not want to use the buttons on the Apple Remote, they can choose to use the remote's accelerometer to drag and drop the code block on the screen instead, similar to using a Wii remote.
+If the user does not want to use the buttons on the Apple Remote, they can choose to use the remote's accelerometer to drag and drop the code block on the screen instead, similar to using a Wii remote
