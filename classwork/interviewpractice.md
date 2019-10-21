@@ -10,23 +10,23 @@
 
 ## Discussion
 
-**Activity:** Looking up cute dogs online.
+**Activity:** Looking up cute dogs online
 
 **Interview Insight:**
 
-Mel likes to look at 3 different websites online for cute dogs available in the Boulder area. Those websites include:
+Mel likes to look at 3 different websites online for cute dogs available in the Boulder/Denver area. Those websites include:
 
 - [Boulder Humane Society](https://www.boulderhumane.org/dogs/)
 - [Lifeline Puppy](https://www.lifelinepuppy.org/puppies/)
 - [L.O.L.A.'s Rescue](http://www.lolasrescue.com/)
 
-Here are a couple of problems Mel faces:
+Here are a couple of problems Mel encounters:
 
 - Dogs have a very high turnover rate. If you find a dog you like online, it is sometimes gone in a couple of hours.
 
-- Mel has to check 3 different websites for dogs.
+- Mel checks 3 different websites for dogs.
   
-- Mel doesn't have any notifications of new puppies arriving, and sometimes misses cute pups.
+- Mel doesn't have any notifications of new puppies arriving, and sometimes misses cute pups before they are "on hold".
 
 - Mel can't put a dog "on hold" online, and must call the shelter to put a dog on hold.
 
