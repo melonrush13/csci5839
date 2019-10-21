@@ -10,7 +10,9 @@
 
 ## Discussion
 
-**Activity:** Looking up cute dogs online
+### Activity
+
+Looking up cute dogs online
 
 ### Questions
 
