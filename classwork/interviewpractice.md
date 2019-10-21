@@ -4,15 +4,33 @@
 
 ## Participants
 
-### Interviewer: Vinitha
+**Interviewer:** Vinitha
 
-### Interviewee: Mel
+**Interviewee:** Mel
 
 ## Discussion
 
-### Activity: Looking up cute dogs online
+**Activity:** Looking up cute dogs online
 
-### Interview Insights
+### Questions
+
+Vinitha did a great job at keeping the conversation generic. She smoothly switched conversation topics, which helped Mel stay on topic and not on one point for too long. She asked excellent follow up questions, and made the conversation feel very light natural.
+
+Some questions included:
+
+- Where do you search for dogs online?
+  
+- How often do you look up dogs?
+  
+- Do you have any problems with the websites you use to look up dogs?
+  
+- What do you wish could be better about the websites?
+  
+- What is your intent at looking at dogs?
+
+- What do you do when you find a dog you like?
+
+### Insights
 
 Mel likes to look at 3 different websites online for cute dogs available in the Boulder/Denver area. These websites include:
 
@@ -34,22 +52,6 @@ Here are a couple of problems Mel encounters:
 
 - Mel dislikes that Lifeline puppy and L.O.L.A's websites are not always up to date
 
-### Discoveries
+### Important Take Aways
 
 After chatting, Vinitha enlightened Mel on a wonderful website called [Petfinder](https://www.petfinder.com/) which combines all of the humane society pages into one. Her new hobby has been changed for the better.
-
-Vinitha did a great job at keeping the conversation generic. She didn't point Mel down one direction for too long, and kept asking great follow up questions. She had some great starting questions, which lead to deep conversations, and then she smoothly switched topics for more insight.
-
-Some questions included:
-
-- Where do you search for dogs online?
-  
-- How often do you look up dogs?
-  
-- Do you have any problems with the websites you use to look up dogs?
-  
-- What do you wish could be better about the websites?
-  
-- What is your intent at looking at dogs?
-
-- What do you do when you find a dog you like?
