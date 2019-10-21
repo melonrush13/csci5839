@@ -20,8 +20,6 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 [Assignment Five: Sketching](blog/assignment5.md)
 
-[Assignment Five: Sketching](blog/assignment5.md)
-
 [Assignment Six: Prototyping](blog/assignment6.md)
 
 [Assignment Seven: Usability](blog/assignment7.md)
