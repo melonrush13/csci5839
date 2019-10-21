@@ -30,7 +30,15 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 ## Classwork
 
+[Apple TV](classwork/appletv.md)
+
+[Google Cardboard Personas](classwork/personas.md)
+
 [Cultural Probes](classwork/culturalprobe.md)
+
+[Interviews](classwork/interviewpractice.md)
+
+[Meetup App](classwork/meetupapp.md)
 
 ## Contact
 
