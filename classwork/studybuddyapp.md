@@ -1,8 +1,10 @@
-# Meetup App
+# Study Buddy App
+
+## Instructions
 
 - Draw a user interface on paper for a study buddy app
   
-- Redraw something you previously dre
+- Redraw something you previously drew
   
 - Get feedback from Shaun or Supriya
 
