@@ -1,25 +1,13 @@
 # Meetup App
 
-- Draw a user interface on paper for a study buddy app
-  
-- Redraw something you previously dre
-  
-- Get feedback from Shaun or Supriya
+09/30/2019: Sketch location sharing for a meetup app
 
-- Participate in a paper prototype test
+## MeetUp
 
-- Recreate your interface on Adobe XD
+![Meet Up App](../Imgs/locationapp.jpg)
 
-- Test your interface on a mobile device and test subject
+Find friends near you using the mobile application, MeetUp. Observe  friends locations using a mapview with pins respresenting people.
 
-## Task: Find a Study Group
+Click on a pin to view more information about your friend and their current location - inlcuding their current address, time last updated, and phone battery.
 
-Find and join a study group using the Study Buddy app for one of your classes.
-
-### Paper Prototype
-
-![Meet Up Sketch](../Imgs/meetupappsketch.jpg)
-
-### Digital Protoype
-
-![Meet Up Sketch](../Imgs/meetupappprototype.png)
+Pop up displays options to message, call, and navigate to your friend's current location.

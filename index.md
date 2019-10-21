@@ -36,7 +36,9 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 [Interviews](classwork/interviewpractice.md)
 
-[Meetup App](classwork/meetupapp.md)
+[Location Meetup App](classwork/meetupapp.md)
+
+[Study Buddy App](classwork/studybuddyapp.md)
 
 ## Contact
 
