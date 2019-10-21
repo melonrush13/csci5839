@@ -4,17 +4,17 @@
 
 ## Participants
 
-**Interviewer:** Vinitha
+### Interviewer: Vinitha
 
-**Interviewee:** Mel
+### Interviewee: Mel
 
 ## Discussion
 
-**Activity:** Looking up cute dogs online
+### Activity: Looking up cute dogs online
 
-**Interview Insight:**
+### Interview Insights
 
-Mel likes to look at 3 different websites online for cute dogs available in the Boulder/Denver area. Those websites include:
+Mel likes to look at 3 different websites online for cute dogs available in the Boulder/Denver area. These websites include:
 
 - [Boulder Humane Society](https://www.boulderhumane.org/dogs/)
 - [Lifeline Puppy](https://www.lifelinepuppy.org/puppies/)
@@ -22,27 +22,27 @@ Mel likes to look at 3 different websites online for cute dogs available in the 
 
 Here are a couple of problems Mel encounters:
 
-- Dogs have a very high turnover rate. If you find a dog you like online, it is sometimes gone in a couple of hours.
+- Dogs have a very high turnover rate. If you find a dog you like online, it is sometimes gone in a couple of hours
 
-- Mel checks 3 different websites for dogs.
+- Mel checks 3 different websites for dogs
   
-- Mel doesn't have any notifications of new puppies arriving, and sometimes misses cute pups before they are "on hold".
+- Mel doesn't have any notifications of new puppies arriving, and sometimes misses cute pups before they are "on hold"
 
-- Mel can't put a dog "on hold" online, and must call the shelter to put a dog on hold.
+- Mel can't put a dog "on hold" online, and must call the shelter to put a dog on hold
 
-- Mel wishes the filtering options were better on websites.
+- Mel wishes the filtering options were better on websites
 
-- Mel dislikes that Lifeline puppy and L.O.L.A's websites are not always up to date.
+- Mel dislikes that Lifeline puppy and L.O.L.A's websites are not always up to date
 
-**Discoveries:**
+### Discoveries
 
 After chatting, Vinitha enlightened Mel on a wonderful website called [Petfinder](https://www.petfinder.com/) which combines all of the humane society pages into one. Her new hobby has been changed for the better.
 
-Vinitha did a great job at keeping the conversation generic. She didn't point Mel down one direction for too long, and kept asking great follow up questions. She had some great starting questions, which lead to deep conversations, and then she switched topics for more insight smoothly.
+Vinitha did a great job at keeping the conversation generic. She didn't point Mel down one direction for too long, and kept asking great follow up questions. She had some great starting questions, which lead to deep conversations, and then she smoothly switched topics for more insight.
 
-Some questions include:
+Some questions included:
 
-- Where do you look up dogs?
+- Where do you search for dogs online?
   
 - How often do you look up dogs?
   
