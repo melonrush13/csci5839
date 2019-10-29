@@ -22,7 +22,7 @@ The article states,
 
 Since Alexa is a walk-up-and-use interface, users can test the light system without knowing much about the interface. Although the users have not named the lamps themselves, which will cause problems. Alexa will struggle to match the name the user said to a name of a lamp that exists. If the users were provided a usage scenario, (for example: a list of the lamp names in the home) the evaulation would be doable.
 
-Because these tests last 1-2 hours, it is hard to understand the real problems the interfaces encounters. A large problem I have encountered is lack of memory for lamp names. Since the users will recieve a sheet of paper with all the lamp names, it is not realisitc in an every day use case. 
+Because these tests last 1-2 hours, it is hard to understand the real problems the interfaces encounters. A large problem I have encountered is lack of memory for lamp names. Since the users will recieve a sheet of paper with all the lamp names, it is not realisitc in an every day use case. Users do not interact with alexa and the lights straight for 1-2 hours at a time. Instead, it is quick 10 second interactions multiple times a day.
 
 #### Current Task Failures
 
@@ -36,11 +36,11 @@ Because these tests last 1-2 hours, it is hard to understand the real problems t
 
 3. Consistency and Standards
 
-    **I am unable to use multiple names for a light.**  If I use the word light to turn off something named lamp, Alexa will get confused. For example, if I say "Alexa turn off bedroom light", she will say "Sorry, I can't find bedroom light".
+    **I am unable to use multiple names for a light.**  If I use the word light to turn off something named lamp, Alexa will get confused. For example, if I say "Alexa turn off bedroom light"(when I meant bedroom *lamp*), she will say "Sorry, I can't find bedroom light".
 
 4. Recognition rather than Recall
 
-    My boyfriend can never remember what I named the lamps in the house. When we go to bed, he says "Alexa turn off all the lights" to avoid memorizing the lamp names. **It is hard to remember every individual name of a lamp when there are so many in the house.**
+    My boyfriend can never remember what I named the lamps in the house. When we go to bed, he says "Alexa turn off all the lights" to avoid memorizing the lamp names. **It is hard to remember every individual name of a lamp when there are so many in the house and you don't use them regularly.**
 
 5. Flexibility and Efficiency to Use
 
