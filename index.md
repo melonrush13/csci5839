@@ -8,6 +8,16 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 ![Mel](Imgs/melrush.png)
 
+## Course Project
+
+[Project Proposal](courseproject/proposal.md)
+
+[Formative Research Plan](courseproject/formativeresearchplan.md)
+
+[Prototypes](courseproject/interactiveprototype.md)
+
+[Final Project YouTube Video](https://www.youtube.com/watch?v=Sz6SIf3VbR4&ab_channel=MelRush)
+
 ## Assignments
 
 [Assignment One: The Deep Dive](blog/assignment1.md)
