@@ -14,7 +14,7 @@ Hi! My name is Mel Rush, and I am a part time graduate student at CU Boulder. I 
 
 [Formative Research Plan](courseproject/formativeresearchplan.md)
 
-[Prototypes](courseproject/interactiveprototype.md)
+[Prototypes](https://github.com/melonrush13/csci5839/blob/master/courseproject/InterActive%20Prototype.pdf)
 
 [Final Project YouTube Video](https://www.youtube.com/watch?v=Sz6SIf3VbR4&ab_channel=MelRush)
 
