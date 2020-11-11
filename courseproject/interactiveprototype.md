@@ -1,1 +1,1 @@
-[Prototype doc here](https://1drv.ms/b/s!Atkei-SUd-bAg_khjFLw1VKKb1yDxA)
+[Prototype doc here](https://github.com/melonrush13/csci5839/blob/master/courseproject/InterActive%20Prototype.pdf)
